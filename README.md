@@ -1,7 +1,7 @@
 ### Hi there, I'm [PINAKI][website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://pinaki-sen.now.sh)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Website](https://img.shields.io/website?label=pinaki-sen.now.sh&style=for-the-badge&url=https%3A%2F%2Fpinaki-sen.now.sh)](https://pinaki-sen.now.sh)
+[![Twitter Follow](https://img.shields.io/twitter/follow/pinaki_sen_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fpinaki_sen_&screen_name=pinaki_sen_)
 
 ## I'm a Engineering Undergrad, Machine Learning and Quantum Computing Enthusiast!!
 
