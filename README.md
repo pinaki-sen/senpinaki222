@@ -75,13 +75,13 @@
     <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
   </a> 
   
-  <a href="https://www.djangoproject.com/" target="_blank"> 
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="40" height="40"/> 
-  </a>
-  
   <a href="https://www.mongodb.com/" target="_blank"> 
     <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
   </a> 
+  
+  <a href="https://www.djangoproject.com/" target="_blank"> 
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="40" height="40"/> 
+  </a>
   
   <a href="https://www.postgresql.org" target="_blank"> 
     <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
