@@ -132,6 +132,10 @@
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.senpinaki222.vercel.app//api?username=senpinaki222&show_icons=true&hide_border=true" />
 
 
+### 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=senpinaki222&layout=compact" alt="senpinaki222" /></p>
+
+
 [website]: https://pinaki-sen.now.sh
 [deepNeuralNet]: https://pypi.org/project/deepNeuralNet/
 [twitter]: https://twitter.com/pinaki_sen_
