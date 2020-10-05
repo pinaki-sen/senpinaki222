@@ -15,12 +15,12 @@
 
 [<img align="left" alt="pinaki-sen.now.sh" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
-<a href="https://twitter.com/pinaki_sen_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="pinaki_sen_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/senpinaki222/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="senpinaki222/" height="30" width="40" /></a>
-<a href="https://kaggle.com/senpinaki222" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="senpinaki222" height="30" width="40" /></a>
-<a href="https://fb.com/senpinaki222" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="senpinaki222" height="30" width="40" /></a>
+<a href="https://twitter.com/pinaki_sen_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="pinaki_sen_" height="30" width="40" /></a>
 <a href="https://instagram.com/pinaki_sen_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="pinaki_sen_" height="30" width="40" /></a>
 <a href="https://medium.com/@senpinaki222" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@senpinaki222" height="30" width="40" /></a>
+<a href="https://fb.com/senpinaki222" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="senpinaki222" height="30" width="40" /></a>
+<a href="https://kaggle.com/senpinaki222" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="senpinaki222" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/senpinaki222" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="senpinaki222" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@senpinaki222" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@senpinaki222" height="30" width="40" /></a>
 </p>
