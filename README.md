@@ -9,9 +9,6 @@
 - 👯 Currently working on a Research Project about Systematic Cell Placement Algorithm for designing optimized logic circuit in QCA
 - 🔭 I'm started developing a deep learning python library from scratch: [deepNeuralNet][deepNeuralNet]!
 
-### Spotify Playing 🎧
-
-[<img src="https://novatorem.senpinaki222.vercel.app/" alt="Spotify Playing" width="350" />](https://open.spotify.com/playlist/6Pg3adbkIQDszQayr0tclf?si=9gnChrIMTnaI_PuKn0Wh8w)
 
 ### Connect with me:
 
