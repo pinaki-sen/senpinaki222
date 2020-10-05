@@ -56,13 +56,9 @@
 
 ---
 
+### GitHub Stats
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.senpinaki222.vercel.app//api?username=senpinaki222&show_icons=true&hide_border=true" />
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.senpinaki222.vercel.app//api?username=senpinaki222&show_icons=true&hide_border=true" />
-
-</details>
 
 [website]: https://pinaki-sen.now.sh
 [deepNeuralNet]: https://pypi.org/project/deepNeuralNet/
