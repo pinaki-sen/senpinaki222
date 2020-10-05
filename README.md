@@ -10,12 +10,11 @@
 - 🔭 I'm started developing a deep learning python library from scratch: [deepNeuralNet][deepNeuralNet]!
 
 
-### Connect with me:
+<p align="left">
+<h3 align="left">Connect with me:</h3>
 
 [<img align="left" alt="pinaki-sen.now.sh" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
-<p align="left">
-<h3 align="left">Connect with me:</h3>
 <a href="https://twitter.com/pinaki_sen_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="pinaki_sen_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/senpinaki222/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="senpinaki222/" height="30" width="40" /></a>
 <a href="https://kaggle.com/senpinaki222" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="senpinaki222" height="30" width="40" /></a>
