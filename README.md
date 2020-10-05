@@ -5,9 +5,12 @@
 
 ## I'm a Engineering Undergrad, Machine Learning and Quantum Computing Enthusiast!!
 
-- 🌱 I’m learning about Machine Learning and Quantum Computing
-- 👯 Currently working on a Research Project about Systematic Cell Placement Algorithm for designing optimized logic circuit in QCA
-- 🔭 I'm started developing a deep learning python library from scratch: [deepNeuralNet][deepNeuralNet]!
+- 🌱 I’m learning about **Machine Learning** and **Quantum Computing**
+- 👯 Currently working on a Research Project about **Systematic Cell Placement Algorithm for designing optimized logic circuit in QCA**
+- 🔭 I've started developing a deep learning python library from scratch: [deepNeuralNet][deepNeuralNet]
+- 💬 Ask me about **Quantum Machine Learning**
+- 👨‍💻 All of my projects are available at [https://pinaki-sen.now.sh/#/projects](https://pinaki-sen.now.sh/#/projects)
+
 
 
 <p align="left">
