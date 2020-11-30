@@ -120,11 +120,12 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Why only the train and test set is not enough for generalizing a ML model? Significance of Validation set.](https://medium.com/analytics-vidhya/only-train-and-test-set-is-not-enough-for-generalizing-ml-model-significance-of-validation-set-cf68bb26881a)
+- [Optimizing a Variational Quantum Circuit, studying the character of the optimized cost as a function of layers in the circuit](https://medium.com/quantumcomputingindia/optimizing-a-variational-quantum-circuit-studying-the-character-of-the-optimized-cost-as-a-a8bac2e9ba46)
+- [Why only the train and test set is not enough for generalizing a ML model? Significance of Validation set](https://medium.com/analytics-vidhya/only-train-and-test-set-is-not-enough-for-generalizing-ml-model-significance-of-validation-set-cf68bb26881a)
 - [PRAW — a python package to scrape Reddit Post data](https://medium.com/analytics-vidhya/praw-a-python-package-to-scrape-reddit-post-data-b759a339ed9a)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://medium.com/@senpinaki222)
+➡️ [more blog posts...](https://senpinaki222.medium.com/)
 
 ---
 
