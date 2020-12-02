@@ -123,14 +123,12 @@
 
 <!-- PUBLICATION-LIST:END -->
 
-➡️ [more blog posts...](https://senpinaki222.medium.com/)
-
 ---
 
 
 
 
-### 📕 Latest Blog Posts
+### 📃 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Optimizing a Variational Quantum Circuit, studying the character of the optimized cost as a function of layers in the circuit](https://medium.com/quantumcomputingindia/optimizing-a-variational-quantum-circuit-studying-the-character-of-the-optimized-cost-as-a-a8bac2e9ba46)
