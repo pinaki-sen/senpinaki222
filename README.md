@@ -116,6 +116,19 @@
 ---
 
 
+### 📕 Publications
+
+<!-- PUBLICATION-LIST:START -->
+- [Systematic Cell Placement in Quantum-dot Cellular Automata Embedding Underlying Regular Clocking Circuit](https://www.researchgate.net/publication/346309195_Systematic_Cell_Placement_in_Quantum-dot_Cellular_Automata_Embedding_Underlying_Regular_Clocking_Circuit)
+
+<!-- PUBLICATION-LIST:END -->
+
+➡️ [more blog posts...](https://senpinaki222.medium.com/)
+
+---
+
+
+
 
 ### 📕 Latest Blog Posts
 
