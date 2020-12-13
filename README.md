@@ -6,7 +6,7 @@
 ## I'm an Engineering Undergrad, Machine Learning and Quantum Computing Enthusiast!!
 
 - 🌱 I’m learning about **Machine Learning** and **Quantum Computing**
-- 👯 Currently working on a Research Project about **Systematic Cell Placement Algorithm for designing optimized logic circuit in QCA**
+- 👯 Currently working on a Research Project about **Loss Landscape of Variational Quantum Classifier and generic feature mapping technique for QML**
 - 🔭 I've started developing a deep learning python library from scratch: [deepNeuralNet][deepNeuralNet]
 - 💬 Ask me about **Quantum Machine Learning**
 - 👨‍💻 All of my projects are available at [https://pinaki-sen.now.sh/#/projects](https://pinaki-sen.now.sh/#/projects)
@@ -41,6 +41,12 @@
 
 ---
 
+### Badges
+
+<!-- PUBLICATION-LIST:START -->
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="a0742025-5726-4ccd-8785-24df153e1d7e" data-share-badge-host="https://www.youracclaim.com"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
+
+<!-- PUBLICATION-LIST:END -->
 
 
 
