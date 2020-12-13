@@ -43,10 +43,10 @@
 
 ### Badges
 
-<!-- PUBLICATION-LIST:START -->
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="a0742025-5726-4ccd-8785-24df153e1d7e" data-share-badge-host="https://www.youracclaim.com"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
+<!-- BADGES-LIST:START -->
 
-<!-- PUBLICATION-LIST:END -->
+
+<!-- BADGES-LIST:END -->
 
 
 
