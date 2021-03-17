@@ -31,11 +31,29 @@
 
 ---
 
+### Projects
+#### 1. Analysis, Prediction and Evaluation of Covid-19 Dataset using Quanvolutional Neural Network [[Github Repo](https://github.com/senpinaki222/covid-chest-xray-classifier-quantum)]
+- Implemented concept of CNN using Quantum Circuit, also known as Quanvolutional Neural Net
+- Created a classifier model to predict Covid19 or Viral Pneumonia from chest x-ray image
 
-<!-- BADGES-LIST:START -->
+#### 2. Generalizing MAXCUT problem for weighted graphs [[Github Repo](https://github.com/senpinaki222/weighted-maxcut-problem)]
+- Implemented QAOA algorithm to solve MAXCUT problem for Weighted Graphs
+- Analyzed the impact on the result by increasing number of layers in Variational Ansatz
+
+#### 3. Loss landscape analysis of Quantum Neural Network
+- Studying the character of loss landscape of QNN implemented on various datasets, including the analysis of Barren plateau and saddle point
+- Analyzing effectiveness of gradient based optimization for Quantum Neural Net using Hessian matrix and Eigen vectors.
+
+#### 4. Cost Optimization Study in VQC [[Github Repo](https://github.com/senpinaki222/qosf_selection_task)] [[Blog](https://medium.com/quantumcomputingindia/optimizing-a-variational-quantum-circuit-studying-the-character-of-the-optimized-cost-as-a-a8bac2e9ba46)]
+- Studying the effect of no. of layer repetitions in Variational Quantum Circuit on the Optimized Cost of the output StateVector.
+- Implementing Gradient-free optimization technique using Pennylane
+
+#### 5. Deep learning model for Covid-19 and Viral Pneumonia Prediction using Chest X-Ray [[Github Repo](https://github.com/senpinaki222/covid-chest-xray-classifier-classical)]
+- This is a multi class classification RESNET9 model trained on a dataset containing chest x-ray of covid19, Pneumonia patient and normal person.
+- Available dataset being not enough large, various data augmentation techniques has been implemented. Final model gives a validation accuracy of 87%
 
 
-<!-- BADGES-LIST:END -->
+---
 
 <p align="left">
 <h3 align="left">Blog Profile:</h3>
