@@ -6,8 +6,8 @@
 ## I'm an Engineering Undergrad, Machine Learning and Quantum Computing Enthusiast!!
 
 - 🌱 Learning about **Machine Learning** and **Quantum Computing**
-- 🕺 Currently I'm a Mentee at [Quantum Open Source Foundation](https://qosf.org/qc_mentorship/), currently working on a Research Project related to **Implementation of Tensor Network on Quantum Machine Learning** under the guidance of [Dr. Amandeep Singh Bhatia](https://curin.chitkara.edu.in/profile/amandeep-singh-bhatia/)
-- 🔭 Interested in Quantum Hardware, trying to learn **Quantum Optics** 
+- 🕺 Currently I'm a Mentee at [Quantum Open Source Foundation](https://qosf.org/qc_mentorship/), working on a Research Project related to **Implementation of Tensor Network on Quantum Machine Learning** under the guidance of [Dr. Amandeep Singh Bhatia](https://curin.chitkara.edu.in/profile/amandeep-singh-bhatia/)
+- 🔭 Interested in **Quantum Hardware**, trying to learn **Quantum Optics** 
 
 ---
 
