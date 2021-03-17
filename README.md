@@ -83,19 +83,19 @@
 </p>
 
 ---
-### Technical Skills:
-#### Quantum Computing
+### 🔬 Technical Skills:
+#### ⚛️ Quantum Computing -
 - Quantum Machine Learning, Quantum Chemistry, Quantum Algorithm, Basics of Quantum Hardwares
 - Frameworks - Qiskit, Pennylane
 
-#### Machine Learning 
+#### 🤖 Machine Learning -
 - Supervised Learning, Unsupervised Learning, Deep Learing, CNN, GAN
 - Frameworks - Pytorch, Tensorflow, Keras, scikit-learn, OpenCV, Matplotlib, Plotly
 
-#### Programming Languages
+#### 📜 Programming Languages -
 - Python, C/C++, MATLAB/OCTAVE
 
-#### CS fundamentals
+#### 💻 CS fundamentals -
 - Data Structures, Object Oriented Programming
 
 ---
