@@ -22,8 +22,6 @@
 
 </p>
 
-<br />
-
 ### 📕 Publications
 
 <!-- PUBLICATION-LIST:START -->
