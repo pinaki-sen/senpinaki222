@@ -5,11 +5,9 @@
 
 ## I'm an Engineering Undergrad, Machine Learning and Quantum Computing Enthusiast!!
 
-- 🌱 I’m learning about **Machine Learning** and **Quantum Computing**
-- 👯 Currently working on a Research Project about **Loss Landscape of Variational Quantum Classifier and generic feature mapping technique for QML**
-- 🔭 I've started developing a deep learning python library from scratch: [deepNeuralNet][deepNeuralNet]
-- 💬 Ask me about **Quantum Machine Learning**
-- 👨‍💻 All of my projects are available at [https://pinaki-sen.now.sh/#/projects](https://pinaki-sen.now.sh/#/projects)
+- 🌱 Learning about **Machine Learning** and **Quantum Computing**
+- 🕺 Currently I'm a Mentee at [Quantum Open Source Foundation](https://qosf.org/qc_mentorship/), currently working on a Research Project related to **Implementation of Tensor Network on Quantum Machine Learning** under the guidance of [Dr. Amandeep Singh Bhatia](https://curin.chitkara.edu.in/profile/amandeep-singh-bhatia/)
+- 🔭 Interested in Quantum Hardware, trying to learn **Quantum Optics** 
 
 ---
 
@@ -31,7 +29,7 @@
 
 ---
 
-### Projects
+### 💻 Projects
 #### 1. Analysis, Prediction and Evaluation of Covid-19 Dataset using Quanvolutional Neural Network [[Github Repo](https://github.com/senpinaki222/covid-chest-xray-classifier-quantum)]
 - Implemented concept of CNN using Quantum Circuit, also known as Quanvolutional Neural Net
 - Created a classifier model to predict Covid19 or Viral Pneumonia from chest x-ray image
