@@ -16,9 +16,8 @@
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 
-[<img align="center" alt="pinaki-sen.now.sh" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
-<a href="pinaki-sen.now.sh" target="blank"><img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Pinaki_Sen3" height="30" width="40" /></a>
+<a href="https://pinaki-sen.now.sh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Pinaki_Sen3" height="30" width="40" /></a>
 <a href="https://www.researchgate.net/profile/Pinaki_Sen3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/researchgate.svg" alt="Pinaki_Sen3" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/senpinaki222/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="senpinaki222/" height="30" width="40" /></a>
 <a href="https://twitter.com/pinaki_sen_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="pinaki_sen_" height="30" width="40" /></a>
