@@ -65,6 +65,22 @@
 </p>
 
 ---
+### Technical Skills:
+#### Quantum Computing
+- Quantum Machine Learning, Quantum Chemistry, Quantum Algorithm, Basics of Quantum Hardwares
+- Frameworks - Qiskit, Pennylane
+
+#### Machine Learning 
+- Supervised Learning, Unsupervised Learning, Deep Learing, CNN, GAN
+- Frameworks - Pytorch, Tensorflow, Keras, scikit-learn, OpenCV, Matplotlib, Plotly
+
+#### Programming Languages
+- Python, C/C++, MATLAB/OCTAVE
+
+#### CS fundamentals
+- Data Structures, Object Oriented Programming
+
+---
 
 <p align="left">
 <h3 align="left">Coding Profiles:</h3> 
@@ -75,41 +91,7 @@
 
 </p>
 
-### Languages and Tools:
 
-<p align="left"> 
-  
-  <a href="https://www.python.org" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  
-  <a href="https://www.tensorflow.org" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tensorflow.svg" alt="tensorflow" width="40" height="40"/> 
-  </a> 
-  
-  <a href="" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/sklearn.svg" alt="scikit_learn" width="40" height="40"/> 
-  </a> 
-  
-  <a href="https://opencv.org/" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/opencv.svg" alt="opencv" width="40" height="40"/> 
-  </a> 
-  
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/c.svg" alt="c" width="40" height="40"/> 
-  </a> 
-  
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/cpp.svg" alt="cplusplus" width="40" height="40"/> 
-  </a> 
-  
-  <a href="https://git-scm.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a>
- 
-  
-  
-</p>
 
 <br />
 <br />
