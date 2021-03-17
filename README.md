@@ -58,6 +58,8 @@
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 
+
+<a href="mailto: pinakisen.eenita@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="pinakisen.eenita@gmail.com" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/senpinaki222/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="senpinaki222/" height="30" width="40" /></a>
 <a href="https://twitter.com/pinaki_sen_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="pinaki_sen_" height="30" width="40" /></a>
 <a href="https://www.instagram.com/indianqubit/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="pinaki_sen_" height="30" width="40" /></a>
@@ -91,10 +93,6 @@
 
 </p>
 
-
-
-<br />
-<br />
 
 ---
 
