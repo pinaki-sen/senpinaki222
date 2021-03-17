@@ -11,27 +11,18 @@
 - 💬 Ask me about **Quantum Machine Learning**
 - 👨‍💻 All of my projects are available at [https://pinaki-sen.now.sh/#/projects](https://pinaki-sen.now.sh/#/projects)
 
-
+---
 
 <p align="left">
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Research Profile:</h3>
 
-
-<a href="https://pinaki-sen.now.sh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Pinaki_Sen3" height="30" width="40" /></a>
+<a href="https://scholar.google.com/citations?hl=en&authuser=6&user=-fjsOBYAAAAJ" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlescholar.svg" alt="google scholar" height="30" width="40" /></a>
 <a href="https://www.researchgate.net/profile/Pinaki_Sen3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/researchgate.svg" alt="Pinaki_Sen3" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/senpinaki222/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="senpinaki222/" height="30" width="40" /></a>
-<a href="https://twitter.com/pinaki_sen_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="pinaki_sen_" height="30" width="40" /></a>
-<a href="https://www.instagram.com/indianqubit/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="pinaki_sen_" height="30" width="40" /></a>
-<a href="https://medium.com/@senpinaki222" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@senpinaki222" height="30" width="40" /></a>
-<a href="https://kaggle.com/senpinaki222" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="senpinaki222" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/senpinaki222" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="senpinaki222" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@senpinaki222" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@senpinaki222" height="30" width="40" /></a>
+<a href="https://orcid.org/0000-0003-3939-5284" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/orcid.svg" alt="0000-0003-3939-5284" height="30" width="40" /></a>
 
 </p>
 
 <br />
-
----
 
 ### 📕 Publications
 
@@ -42,7 +33,6 @@
 
 ---
 
-### Badges
 
 <!-- BADGES-LIST:START -->
 
@@ -62,7 +52,24 @@
 ➡️ [more blog posts...](https://senpinaki222.medium.com/)
 
 ---
+<p align="left">
+<h3 align="left">Connect with me:</h3>
 
+<a href="https://pinaki-sen.now.sh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Pinaki_Sen3" height="30" width="40" /></a>
+<a href="https://www.researchgate.net/profile/Pinaki_Sen3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/researchgate.svg" alt="Pinaki_Sen3" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/senpinaki222/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="senpinaki222/" height="30" width="40" /></a>
+<a href="https://twitter.com/pinaki_sen_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="pinaki_sen_" height="30" width="40" /></a>
+<a href="https://www.instagram.com/indianqubit/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="pinaki_sen_" height="30" width="40" /></a>
+<a href="https://medium.com/@senpinaki222" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@senpinaki222" height="30" width="40" /></a>
+<a href="https://kaggle.com/senpinaki222" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="senpinaki222" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/senpinaki222" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="senpinaki222" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@senpinaki222" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@senpinaki222" height="30" width="40" /></a>
+
+</p>
+
+<br />
+
+---
 
 
 ### Languages and Tools:
